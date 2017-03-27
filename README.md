@@ -9,7 +9,10 @@ Recomendamos encarecidamente el uso de este canal en detrimento del correo elect
 Para ello tan solo es necesario disponer de un usuario de github, y acceder al listado de incidencias
 dirigiendose a la seccion 'Issues' de este repositorio o bien directamente mediante esta URL: 
 
+
 https://github.com/ECI-GPG/i-dossier-support/issues
 
+
+muchas gracias!
 
 

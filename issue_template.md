@@ -1,23 +1,24 @@
 ## Comportamiento Esperado
 
+
 ## Comportamiento Actual
 
-## Version de iDossierisuue
 
 ## Entorno
 
- Dispositivo / OS
- 
- - [ ] Windows XP
- - [ ] Windows 7-10
- - [ ] Linux: Indicar distro [          ]
- - [ ] OSX
- - [ ] Android
- - [ ] IOS
- 
-## Navegador
+### Aplicación
+ - [ ] iDossier
+ - [ ] iManager
 
- - [ ] IE  version:        
+### Dispositivo / OS
+ - [ ] Windows version:
+ - [ ] Linux version:
+ - [ ] OSX version:
+ - [ ] Android version:
+ - [ ] IOS version:
+ 
+### Navegador
+ - [ ] IE version:        
  - [ ] Ms Edge version:
  - [ ] Chrome version:
  - [ ] Safari version:
